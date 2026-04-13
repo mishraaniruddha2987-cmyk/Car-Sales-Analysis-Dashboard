@@ -48,7 +48,7 @@ Dashboard Preview
 
 Add your dashboard screenshot here:
 
-![Dashboard Preview](dashboard%20image.png)
+![Dashboard Preview](https://github.com/mishraaniruddha2987-cmyk/Car-Sales-Analysis-Dashboard/blob/main/dashboard%20image.PNG)
 How to Use
 Clone this repository:
 git clone https://github.com/your-username/Car-Sales-Dashboard.git
